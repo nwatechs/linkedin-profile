@@ -1,0 +1,267 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500;700&family=Poppins:wght@400;500;700&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Montserrat', sans-serif;
+    font-family: 'Poppins', sans-serif;
+  }
+
+  nav {
+    display: flex;
+    background-color: white;
+    height: 60px;
+    padding-top: 5px;
+  }
+  .logo {
+    display: flex;
+    margin-left: 100px;
+  }
+  .logo img {
+    margin-top: 10px;
+  }
+  .input {
+    padding: 5px;
+    margin-top: 10px;
+    padding-right: 100px;
+    border-radius: 5px;
+    border: none;
+    background-color: #EEF3F8;
+  }
+
+  .input input {
+    border: none;
+    outline: none;
+    background-color: transparent;
+  }
+
+ .center {
+    display: flex;
+    margin-left: 180px; 
+}
+.home {
+  font-size: 12px;
+
+}
+.network {
+     margin-left: 50px;
+  }
+.net {
+  margin-left: -10px;
+  font-size: 12px;
+  margin-top: -5px;
+}
+  .jobs {
+    margin-left: 20px;
+    
+    margin-top: ;
+  }
+  .job {
+    font-size: 12px;
+    margin-top: -5px;
+  }
+  .message {
+    margin-left: 50px;
+   
+  }
+  .mess {
+    margin-left: -10px;
+    font-size: 12px;
+  }
+  .notify {
+    margin-left: 30px;
+    font-size: 12px;
+  }
+  .not {
+    margin-left: -20px;
+    margin-top: 2px;
+  }
+  .nwa {
+    margin-left: 30px;
+  }
+.me {
+  font-size: 12px;
+  margin-top: -5px;
+}
+.tpic {
+      width: 30px;
+      height: 30px;
+      border-radius: 15px;
+}
+.vl {
+  border-right: 1px solid #EBEBEB;
+  margin-left: 25px;
+}
+.end {
+  margin-left: 50px;
+  font-size: 12px;
+  margin-top: 10px;
+  color: #FFFFFF;
+}
+.end1 {
+  margin-left: 40px;
+}
+
+body {
+  /* display: flex; */
+  /* justify-content: center; */
+  background-color: #F3F2EF;
+  /* cursor: pointer; */
+ }
+
+ .bag {
+   border-top-left-radius: 10px;
+   border-top-right-radius: 10px;
+   margin-top: 30px;
+   margin-left: 100px;
+ }
+ .cam {
+   margin-bottom: 120px;
+   margin-left: -80px;
+ }
+
+.pic {
+  width: 170px;
+  height: 170px;
+  border-radius: 100px;
+  margin-top: -125px;
+  margin-left: 20px;
+  border: 4px solid white;
+  cursor: pointer;
+}
+
+.down {
+  background-color: white;
+  margin-top: -5px;
+  margin-right: 467px;
+  padding: 30px;
+  border-bottom-left-radius: 10px;
+  border-bottom-right-radius: 10px;
+  cursor: default;
+  margin-left: 100px;
+}
+
+.middle {
+  display: flex;
+  justify-content: space-between;
+  
+}
+
+.pen {
+  position: relative;
+  top: -80px;
+  right: -140px;
+}
+
+.uni {
+  position: relative;
+  top: -10px;
+  right: 90px;
+}
+.campus {
+  position: relative;
+  top: 30px;
+  right: 195px;
+}
+
+.yaba{
+  position: relative;
+  top: -20px;
+  right: 80px;
+}
+.name {
+  margin-top: 10px;
+}
+
+.one {
+  margin-top: 5px;
+}
+
+a {
+  text-decoration: none;
+  color: #0A66C2;
+}
+a:hover {
+  text-decoration: underline;
+}
+
+.open {
+  background-color: #0A66C2;
+  padding: 10px;
+  border-radius: 20px;
+  color: white;
+  border: none;
+  padding-left: 20px;
+  padding-right: 20px;
+  margin-top: 10px;
+}
+
+.open:hover{
+  background-color: darkblue;
+  cursor: pointer;
+}
+
+.add {
+  background-color: transparent;
+  padding: 10px;
+  border-radius: 20px;
+  color:#0A66C2; 
+  border: 1px solid #0A66C2;
+  padding-left: 20px;
+  padding-right: 20px;
+  margin-top: 10px;
+  margin-left: 5px;
+} 
+
+.add:hover {
+  background-color: lightblue;
+  cursor: pointer;
+}
+.more {
+  padding: 10px;
+  border-radius: 20px;
+  padding-left: 20px;
+  padding-right: 20px;
+  border: 1px solid;
+  margin-left: 5px;
+  color: #717171;
+}
+
+.more:hover {
+  background-color:#D9E5E7 ;
+  cursor: pointer;
+}
+.foot {
+  padding-left: 10px;
+  padding-right: 170px;
+  border-radius: 10px;
+  background-color: #E9E5DF;
+  margin-top: 20px;
+}
+
+.footer {
+  display: flex;
+}
+
+.pencil {
+  margin-top: 30px;
+  margin-left: -30px;
+}
+
+.pencil:hover{
+  background-color: #717171;
+  /* border-radius: 10px; */
+}
+
+h5 {
+  padding-top: 10px;
+}
+
+.role {
+  margin-bottom: -5px;
+}
+
+.details {
+  margin-top: -10px;
+}
